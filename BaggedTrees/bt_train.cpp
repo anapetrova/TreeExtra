@@ -20,6 +20,7 @@
 
 #include <algorithm>
 #include <errno.h>
+#include <cmath>
 
 int main(int argc, char* argv[])
 {	
